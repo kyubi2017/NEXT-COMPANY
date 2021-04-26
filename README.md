@@ -1,7 +1,5 @@
 # NEXT-COMPANY
 
-# Coffee Junkie
-
 
 this is a  project and i created with :
 
